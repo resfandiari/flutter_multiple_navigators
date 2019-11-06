@@ -10,3 +10,6 @@ I have covered the following importamt topics in this app:
 - Keeping State for all Pages (sub_page and main_page)
 
 - have a comfortable switching
+
+- handling double tap bottom navigation item to pop all inner screens of a tab
+
